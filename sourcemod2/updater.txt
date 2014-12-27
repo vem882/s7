@@ -1,0 +1,26 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"2.0.2"
+		}
+		
+		"Notes"		"Thank you Powerlord -- fixed CS:GO"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/simple-chatprocessor.smx"
+		"Plugin"	"Path_SM/plugins/auto_steam_update.smx"
+		"Plugin"	"Path_SM/plugins/custom-chatcolors.smx"
+		"Plugin"	"Path_SM/plugins/WebShortcuts.smx"
+		"Plugin"	"Path_SM/plugins/cannounce.smx"
+		"Plugin"	"Path_SM/plugins/motdgd_adverts.smx"
+		
+
+		"Source"	"Path_SM/scripting/simple-chatprocessor.sp"
+		"Source"	"Path_SM/scripting/include/scp.inc"
+	}
+}

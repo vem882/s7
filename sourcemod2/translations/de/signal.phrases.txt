@@ -1,0 +1,486 @@
+"Phrases"
+{
+	"Restricted to in-game"
+	{
+		"de"		"Das Plugin kann nur im Spiel verwendet werden."
+	}
+	"Message limit reached"
+	{
+		"de"		"Limit von {1} Nachrichten pro Minute erreicht. Bitte vor dem erneuten Versuch etwas warten."
+	}
+	"You are blocked"
+	{
+		"de"		"Das Versenden von Nachrichten an diesen Benutzer ist gesperrt."
+	}
+	"Need friends first"
+	{
+		"de"		"Du musst jemanden zu deiner Freundesliste hinzufügen ('pmfriends' im Chat), bevor du eine Nachricht sendest."
+	}
+	"No message viewed"
+	{
+		"de"		"Du hast bisher noch keine Nachrichten bekommen."
+	}
+	"No messages to view"
+	{
+		"de"		"Dein Posteingang ist leer."
+	}
+	"No blocks to view"
+	{
+		"de"		"Deine Banliste ist leer."
+	}
+	"Message doesn't exist"
+	{
+		"de"		"Die Nachricht, welche du ausgewählt hast, existiert nicht."
+	}
+	"User doesn't exist"
+	{
+		"de"		"Spieler nicht mehr verfügbar."
+	}
+	"User doesn't exist in DB"
+	{
+		"de"		"Der Benutzer, den du ausgewählt hast, kann nicht gefunden werden. Bitte erneut versuchen."
+	}
+
+
+	"Usage"
+	{
+		"de"		"Verwendung"
+	}
+	"Sample message text"
+	{
+		"de"		"Nachricht"
+	}
+	
+	
+	"Message sent."
+	{
+		"de"		"Nachricht gesendet."
+	}
+	
+	
+	"One unread"
+	{
+		"de"		"Eine ungelesene Nachricht ist in deinem Posteingang. Schreibe 'pminbox' im Chat, um sie zu sehen."
+	}
+	"Multiple unread"
+	{
+		"de"		"{1} ungelesene Nachrichten im Posteingang. Schreibe 'pminbox' im Chat, um sie zu sehen."
+	}
+	"Unread"
+	{
+		"de"		"Ungelesen"
+	}
+	
+	
+	"Check DB settings"
+	{
+		"de"		"Bitte überprüfe deine Datenbankeinstellungen."
+	}
+	"Error in logs"
+	{
+		"de"		"Halte in der Konsole bzw. den Logdateien ausschau nach detaillierten Fehlerausgaben."
+	}
+	"Got DB conn"
+	{
+		"de"		"Datenbankverbindung aufgebaut."
+	}
+	"Error"
+	{
+		"de"		"Fehler"
+	}
+	"Database Query"
+	{
+		"de"		"Datenbankabfrage"
+	}
+	"Database Connection"
+	{
+		"de"		"Datenbankverbindung"
+	}
+	
+
+	
+	"User blocked."
+	{
+		"de"		"Benutzer gesperrt. Um die Banliste zu verwalten, kannst du 'pmblocks' im Chat schreiben."
+	}
+	"User unblocked."
+	{
+		"de"		"Benutzer entsperrt."
+	}
+	"Friend added."
+	{
+		"de"		"Freund hinzugefügt. Um eine Nachricht zu senden, kannst du 'pmsend' im Chat schreiben."
+	}
+	"Friend removed."
+	{
+		"de"		"Freund entfernt."
+	}
+	"Message deleted."
+	{
+		"de"		"Nachricht gelöscht."
+	}
+	"Messages deleted."
+	{
+		"de"		"Nachrichten gelöscht."
+	}
+	"Action not performed"
+	{
+		"de"		"Auf dem Server ist ein Datenbankfehler aufgetreten. Bitte erneut versuchen."
+	}
+	
+	
+	"Blocked"
+	{
+		"de"		"Gesperrt"
+	}
+	"Friend"
+	{
+		"de"		"Freund"
+	}
+	"Autoadd"
+	{
+		"de"		"Server-Freund"
+	}
+	
+	
+	"Help1"
+	{
+		"de"		"Einen Freund hinzufügen"
+	}
+	"Help1Text"
+	{
+		"de"		"Geh in das Hauptmenü ('pm' im Chat), wähle Freunde und wähle dann 'Freund hinzufügen' aus. Stattdessen kannst du auch 'pmfriends' im Chat schreiben."
+	}
+	"Help2"
+	{
+		"de"		"Eine private Nachricht senden"
+	}
+	"Help2Text"
+	{
+		"de"		"Schreibe 'pmsend' gefolgt von deiner Nachricht im Chat. Deine Freundesliste wird geöffnet und du kannst dem Empfänger auswählen."
+	}
+	"Help3"
+	{
+		"de"		"Auf eine private Nachricht antworten."
+	}
+	"Help3Text"
+	{
+		"de"		"Schreibe 'pmreply' gefolgt von deiner Nachricht im Chat. Das funktioniert nachdem du eine Nachricht geschlossen hast, der du antworten willst."
+	}
+	"Help4"
+	{
+		"de"		"Empfangen von privaten Nachrichten"
+	}
+	"Help4Text"
+	{		
+		"de"		"Du bekommst eine Benachrichtigung, wenn du eine ungelesene Nachricht hast. Schreibe 'pminbox' im Chat (oder 'pm' und dann Posteingang) um sie zu lesen. Du kannst so auch alte Nachrichten lesen."
+	}
+	"Help5"
+	{
+		"de"		"Benutzer Sperren"
+	}
+	"Help5Text"
+	{
+		"de"		"Gehe zu einer Nachricht, die der Benutzer gesendet hat und drück '1' zum Auswählen. Wähle dann 'Benutzer sperren' aus dem Menü."
+	}
+	"Help6"
+	{
+		"de"		"Einen Freund entfernen"
+	}
+	"Help6Text"
+	{
+		"de"		"Gehe zu deiner Freundesliste mit 'pmfriends' im Chat (oder 'pm', dann Freunde). Wähle deinen Freund aus und wähle dann 'Freund entfernen'."
+	}
+	"Help7"
+	{
+		"de"		"Das Menü auf eine Taste legen"
+	}
+	"Help7Text"
+	{
+		"de"		"Öffne die Konsole und schreibe 'bind TASTE pm'. Danach kannst du das Menü im Spiel mit der angegebenen Taste öffnen."
+	}
+	"Back to help"
+	{
+		"de"		"Zurück zur Hilfe"
+	}
+	
+	
+	"SecondsShort"
+	{
+		"de"		"Sekunden"
+	}
+	"MinutesShort"
+	{
+		"de"		"Minuten"
+	}
+	"HoursShort"
+	{
+		"de"		"Stunden"
+	}
+	"DaysShort"
+	{
+		"de"		"Tage"
+	}
+	"MonthsShort"
+	{
+		"de"		"Monate"
+	}
+	"YearsShort"
+	{
+		"de"		"Jahre"
+	}
+	"X ago"
+	{
+		"de"		"{1} her"
+	}
+	
+	
+	"Viewing message #X"
+	{
+		"de"		"Nachricht: #{1}"
+	}
+	"Received time"
+	{
+		"de"		"Empfangen"
+	}
+	"From"
+	{
+		"de"		"Von"
+	}
+	"Name"
+	{
+		"de"		"Name"
+	}
+	"Reply prompt"
+	{
+		"de"		"Schreibe 'pmreply' im Chat um zu antworten."
+	}
+	"Delete message"
+	{
+		"de"		"Lösche Nachricht"
+	}
+	"Back to Inbox"
+	{
+		"de"		"Zurück zum Posteingang"
+	}
+	"Close"
+	{
+		"de"		"Schließen"
+	}
+	
+	
+	"Inbox"
+	{
+		"de"		"Posteingang"
+	}
+	"Friends"
+	{
+		"de"		"Freunde"
+	}
+	"Blocklist"
+	{
+		"de"		"Banliste"
+	}
+	"Help"
+	{
+		"de"		"Hilfe"
+	}
+	"User Menu"
+	{
+		"de"		"Benutzermenü"
+	}
+	"Choose a recipient"
+	{
+		"de"		"Wähle einen Empfänger aus"
+	}
+	"Add Friend Title"
+	{
+		"de"		"Freund hinzufügen"
+	}
+
+	
+	"Add friend"
+	{
+		"de"		"Freund hinzufügen"
+	}
+	"Remove friend"
+	{
+		"de"		"Freund entfernen"
+	}
+	"Block user"
+	{
+		"de"		"Benutzer sperren"
+	}
+	"Unblock user"
+	{
+		"de"		"Benutzer entsperren"
+	}
+	"Delete all"
+	{
+		"de"		"Alle Nachrichten des Benutzers löschen"
+	}
+	"Back to Main Menu"
+	{
+		"de"		"Zurück zum Hauptmenü"
+	}
+	
+		
+	
+	"Groups"
+	{
+		"de"		"Gruppen"
+	}
+	"Create group"
+	{
+		"de"		"Gruppe erstellen"
+	}
+	"Create group hint"
+	{
+		"de"		"Erstelle eine Gruppe durch Verwendung des Befehls 'pmcreategroup' im Chat. Siehe in der Hilfe für weitere Details nach."
+	}
+	"Go to help menu"
+	{
+		"de"		"Gehe zum Hilfe-Menü"
+	}
+	"Need groups first"
+	{
+		"de"		"Du hast bis jetzt noch keine Gruppen erstellt."
+	}
+	"Choose group recipient"
+	{
+		"de"		">> Sende an eine Gruppe"
+	}
+	"Member added."
+	{
+		"de"		"Mitglied zu Gruppe hinzugefügt."
+	}
+	"Sample group name"
+	{
+		"de"		"Gruppen-Name"
+	}
+	"Group created."
+	{
+		"de"		"Gruppe erstellt. Siehe Im Hilfe-Menü für mehr Infos nach."
+	}
+	"Group Members"
+	{
+		"de"		"Gruppen-Mitglieder"
+	}
+	"Select group to remove from"
+	{
+		"de"		"Gruppe zum entfernen auswählen"
+	}
+	"Group member removed."
+	{
+		"de"		"Mitglied aus der Gruppe entfernt."
+	}
+	"Group removed."
+	{
+		"de"		"Gruppe entfernt."
+	}
+	"Choose a group"
+	{
+		"de"		"Gruppe auswählen"
+	}
+	"User not part of your groups."
+	{
+		"de"		"Der ausgewählte Benutzer ist kein Mitglied einer Gruppe, die du besitzt."
+	}
+	"Add to group"
+	{
+		"de"		"Zur Gruppe hinzufügen"
+	}
+	"Remove from group"
+	{
+		"de"		"Von Gruppe entfernen"
+	}
+	"No users in group."
+	{
+		"de"		"Es sind keine Benutzer in dieser Gruppe."
+	}
+	"Group creation limit reached"
+	{
+		"de"		"Du hast schon in der letzen Minute eine Gruppe erstellt. Bitte warten, bevor neue Gruppen erstellt werden."
+	}
+	
+	"Outbox"
+	{
+		"de"		"Postausgang"
+	}
+	"No sent messages to view"
+	{
+		"de"		"Dein Postausgang ist leer."
+	}
+	"Back to outbox"
+	{
+		"de"		"Zurück zum Postausgang."
+	}
+	"To"
+	{
+		"de"		"Zu"
+	}
+	"Sent time"
+	{
+		"de"		"Gesendet"
+	}
+
+	"Online"
+	{
+		"de"		"Online"
+	}
+	"Offline"
+	{
+		"de"		"Offline"
+	}
+	
+	"Help8"
+	{
+		"de"		"Gruppe erstellen"
+	}
+	"Help8Text"
+	{
+		"de"		"Schreibe 'pmcreategroup' im Chat, gefolgt vom gewünschten Namen."
+	}
+	"Help9"
+	{
+		"de"		"Entferne eine Gruppe"
+	}
+	"Help9Text"
+	{
+		"de"		"Schreibe 'pmdeletegroup' im Chat und wähle dann im Menü die Gruppe, welche du löschen willst."
+	}
+	"Help10"
+	{
+		"de"		"Spieler zur Gruppe hinzufügen"
+	}
+	"Help10Text"
+	{
+		"de"		"Gehe zur Profilseite des Spielersd und wähle 'Zur Gruppe hinzufügen', dann die Gruppe auswählen zu der der Spieler hinzugefügt werden soll."
+	}
+	"Help11"
+	{
+		"de"		"Zu einer Grupe senden"
+	}
+	"Help11Text"
+	{
+		"de"		"Verwende pmsend ganz normal. Danach den Empfänger aus der Liste 'Zur Gruppe senden' auswählen."
+	}
+	"Help12"
+	{
+		"de"		"Spieler aus einer Gruppe entfernen"
+	}
+	"Help12Text"
+	{
+		"de"		"Gehe zur Profilseite des Spielers und wähle 'Aus Gruppe entfernen', dann die Gruppe auswählen zu der der Spieler entfernt werden soll."
+	}
+	
+	"Blocked by ID"
+	{
+		"de"		"Du kannst <{1}> keine Nachrichten senden, da du blockiert bist."
+	}
+	
+	"Group owner changed."
+	{
+		"de"		"Gruppenbesitzer geändert."
+	}
+}

@@ -1,0 +1,215 @@
+"Phrases"
+{
+	"DBWait"
+	{
+		"de"		"{lightgreen}Aktualisiert Datenbank... {green}Bitte Warten.."
+	}
+	"Notice"
+	{
+		"de"		"{lightgreen}Schreibe {green}!{1} <searchmask> {lightgreen}um die {green}Map Liste {lightgreen}zu öffnen"
+	}
+	"Notice2"
+	{
+		"de"		"{lightgreen}Schreibe {green}!{1} <searchmask> {lightgreen}um die {green}Eigene Map Liste {lightgreen}zu öffnen"
+	}
+	"Notice3"
+	{
+		"de"		"{lightgreen}Du kannst {green}%% {lightgreen}als {green}Such-Wildcard {lightgreen}benutzen"
+	}
+	"Notice4"
+	{
+		"de"		"{lightgreen}Schreibe {green}!{1} <url> {lightgreen}um eine Map {green}direkt von einer URL zu downloaden"
+	}
+	"Wait"
+	{
+		"de"		"{lightgreen}Die Maximale Anzahl von {green}20 Downloads wurde erreicht. {lightgreen}Bitte warten!"
+	}
+	"Login"
+	{
+		"de"		"{lightgreen}Schreibe {green}'{1} <user> <pass>' in deine CONSOLE {lightgreen}um dich auf den {green}FTP Server anzumelden"
+	}
+	"Downloads"
+	{
+		"de"		"Downloads: {1}"
+	}
+	"Rating"
+	{
+		"de"		"Bewertung: {1} ({2} Stimme/n)"
+	}
+	"Views"
+	{
+		"de"		"Aufrufe: {1}"
+	}
+	"Created"
+	{
+		"de"		"Erstellungsdatum: {1}"
+	}
+	"LatestModified"
+	{
+		"de"		"Letzte Modifizierung: {1}"
+	}
+	"Size"
+	{
+		"de"		"Größe: {1}"
+	}
+	"DownloadsTitle"
+	{
+		"de"		"Download/s"
+	}
+	"ViewsTitle"
+	{
+		"de"		"Aufruf/e"
+	}
+	"RatingTitle"
+	{
+		"de"		"Bewertung"
+	}
+	"DownloadsShort"
+	{
+		"de"		"DLs"
+	}
+	"ChooseCategory"
+	{
+		"de"		"Wähle eine Kategorie:"
+	}
+	"ChooseSortType"
+	{
+		"de"		"Wähle eine Sortier-Kategorie:"
+	}
+	"AllMaps"
+	{
+		"de"		"Alle Maps"
+	}
+	"SortByName"
+	{
+		"de"		"Nach dem Namen"
+	}
+	"SortByDate"
+	{
+		"de"		"Nach dem Erstellungsdatum"
+	}
+	"SortByMDate"
+	{
+		"de"		"Nach der letzten Änderung"
+	}
+	"SortByDownloads"
+	{
+		"de"		"Nach Anzahl der Downloads"
+	}
+	"SortByViews"
+	{
+		"de"		"Nach Anzahl der Seitenaufrufe"
+	}
+	"SortByRating"
+	{
+		"de"		"Nach Bewertung"
+	}
+	"SortConfig"
+	{
+		"de"		"Konfigurieren"
+	}
+	"NewestMaps"
+	{
+		"de"		"Neuste Maps"
+	}
+	"LatestModifiedMaps"
+	{
+		"de"		"Zuletzt geänderte Maps"
+	}
+	"MostDownloadedMaps"
+	{
+		"de"		"Meist gedownloadete Maps"
+	}
+	"MostViewedMaps"
+	{
+		"de"		"Meist angesehene Maps"
+	}
+	"BestRatedMaps"
+	{
+		"de"		"Best bewertete Maps"
+	}
+	"ChooseSortTypeMaps"
+	{
+		"de"		"Wähle einen Sortiertyp für 'Alle Maps'"
+	}
+	"Ascending"
+	{
+		"de"		"Aufsteigend sortieren"
+	}
+	"Descending"
+	{
+		"de"		"Absteigend sortieren"
+	}
+	"Map"
+	{
+		"de"		"Map"
+	}
+	"Maps"
+	{
+		"de"		"Map/s"
+	}
+	"ChooseMap"
+	{
+		"de"		"Wähle eine Map:"
+	}
+	"Empty"
+	{
+		"de"		"{lightgreen}Keine Ergebnisse {green}für {1} {lightgreen}gefunden!"
+	}
+	"Found"
+	{
+		"de"		"Maps gefunden für: {1}"
+	}
+	"Download"
+	{
+		"de"		"Downloade Map"
+	}
+	"Motd"
+	{
+		"de"		"Zeige mehr Informationen in der MOTD"
+	}
+	"Downloading"
+	{
+		"de"		"Downloade Map"
+	}
+	"Uploading"
+	{
+		"de"		"Uploade Map"
+	}
+	"Compressing"
+	{
+		"de"		"Komprimiere Map"
+	}
+	"InvalidUrl"
+	{
+		"de"		"{lightgreen}Die URL '{1}' {green}ist keine gültige Datei!"
+	}
+	"Queue"
+	{
+		"de"		"{1} Download(s) in der Warteschlange"
+	}
+	"Failed"
+	{
+		"de"		"{lightgreen}Map Download fehlgeschlagen. {green}Fehler: {1}!"
+	}
+	"Invalid"
+	{
+		"de"		"{lightgreen}Konnte keine {green}gültige Map Datei {lightgreen}finden!"
+	}
+	"OnlyNav"
+	{
+		"de"		"{lightgreen}Konnte nur eine {green}Navigations Datei {lightgreen}finden!"
+	}
+	"FoundMap"
+	{
+		"de"		"{lightgreen}Installierte Map: {green}{1}.bsp"
+	}
+	"Finish"
+	{
+		"de"		"{green}Map {1} {lightgreen}erfolgreich gedownloadet und installiert."
+	}
+	"FinishHint"
+	{
+		"de"		"Map erfolgreich heruntergeladen: {1}"
+	}
+}

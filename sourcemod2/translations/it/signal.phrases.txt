@@ -1,0 +1,485 @@
+"Phrases"
+{
+	"Restricted to in-game"
+	{
+		"it"		"Questo plugin può essere usato sono in-gioco."
+	}
+	"Message limit reached"
+	{
+		"it"		"Il limite di {1} messaggi al secondo è stato raggiunto. Per favore aspetta prima di riprovare."
+	}
+	"You are blocked"
+	{
+		"it"		"Ti è stato proibito inviare messaggi a quell'utente."
+	}
+	"Need friends first"
+	{
+		"it"		"Devi aggiungere qualcuno alla tua lista amici ('pmfriends' in chat) prima di poter inviare messaggi."
+	}
+	"No message viewed"
+	{
+		"it"		"Non hai ancora visto un messaggio."
+	}
+	"No messages to view"
+	{
+		"it"		"La tua cartella in arrivo è vuota."
+	}
+	"No blocks to view"
+	{
+		"it"		"Non ti hanno proibito di interagire con alcun utente."
+	}
+	"Message doesn't exist"
+	{
+		"it"		"Il messaggio selezionato non esiste più."
+	}
+	"User doesn't exist"
+	{
+		"it"		"Il giocatore non è più disponibile."
+	}
+	"User doesn't exist in DB"
+	{
+		"it"		"L'utente selezionato non è stato trovato. Per favore riprova."
+	}
+
+
+	"Usage"
+	{
+		"it"		"Utilizzo"
+	}
+	"Sample message text"
+	{
+		"it"		"messaggio"
+	}
+	
+	
+	"Message sent."
+	{
+		"it"		"Messaggio inviato."
+	}
+	
+	
+	"One unread"
+	{
+		"it"		"Un messaggio non letto nella posta in arrivo. Scrivi 'pminbox' in chat per visualizzarlo."
+	}
+	"Multiple unread"
+	{
+		"it"		"{1} messaggi non letti nella posta in arrivo. Scrivi 'pminbox' in chat per visualizzarli."
+	}
+	"Unread"
+	{
+		"it"		"Non letti"
+	}
+	
+	
+	"Check DB settings"
+	{
+		"it"		"Per favore controlla le impostazioni del database."
+	}
+	"Error in logs"
+	{
+		"it"		"Guarda i log in console per ulteriori informazioni sul messaggio di errore."
+	}
+	"Got DB conn"
+	{
+		"it"		"Connessione al database stabilita."
+	}
+	"Error"
+	{
+		"it"		"Errore"
+	}
+	"Database Query"
+	{
+		"it"		"Database in coda"
+	}
+	"Database Connection"
+	{
+		"it"		"Connessione al database"
+	}
+	
+
+	
+	"User blocked."
+	{
+		"it"		"Utente bloccato. Imposta i blocchi scrivendo 'pmblocks' in chat."
+	}
+	"User unblocked."
+	{
+		"it"		"Utente sbloccato."
+	}
+	"Friend added."
+	{
+		"it"		"Amico aggiunto. Invia un messaggio usando il comando 'pmsend' in chat."
+	}
+	"Friend removed."
+	{
+		"it"		"Amico rimosso."
+	}
+	"Message deleted."
+	{
+		"it"		"Messaggio rimosso."
+	}
+	"Messages deleted."
+	{
+		"it"		"Messaggi rimossi."
+	}
+	"Action not performed"
+	{
+		"it"		"Si è verificato un errore nel database del server. per favore riprova."
+	}
+	
+	
+	"Blocked"
+	{
+		"it"		"Bloccato"
+	}
+	"Friend"
+	{
+		"it"		"Amico"
+	}
+	"Autoadd"
+	{
+		"it"		"Amici"
+	}
+	
+	
+	"Help1"
+	{
+		"it"		"Aggiunta dell'amico"
+	}
+	"Help1Text"
+	{
+		"it"		"Vai al menu principale ('pm' in chat), seleziona gli amici, quindi vai su 'Add Friend'. Oppure, scrivi 'pmfriends' in chat."
+	}
+	"Help2"
+	{
+		"it"		"Invio in corso"
+	}
+	"Help2Text"
+	{
+		"it"		"Scrivi 'pmsend' in chat, seguito dal messaggio. La tua lista amici sarà aperta, e tu potrai selezionare il destinatario."
+	}
+	"Help3"
+	{
+		"it"		"Invio risposta in corso"
+	}
+	"Help3Text"
+	{
+		"it"		"Scrivi 'pmreply' in chat, seguito dal messaggio. Questo funziona anche dopo che hai chiuso il messaggio a cui stavi rispondendo."
+	}
+	"Help4"
+	{
+		"it"		"Ricezione in corso"
+	}
+	"Help4Text"
+	{
+		"it"		"Dovresti ricevere una notifica quando hai un messaggio non letto. Scrivi 'pminbox' in chat (o 'pm'), quindi vai su 'Posta in arrivo' per leggerlo. Puoi anche leggere messaggi vecchi."
+	}
+	"Help5"
+	{
+		"it"		"Blocco in corso"
+	}
+	"Help5Text"
+	{
+		"it"		"Vai su un messaggio che un utente ha inviato, quindi premi '1' per selezionarlo. Vai su 'Block User' dal menu."
+	}
+	"Help6"
+	{
+		"it"		"Rimozione in corso"
+	}
+	"Help6Text"
+	{
+		"it"		"Vai alla tua lista amici scrivendo 'pmfriends' in chat (p 'pm'), quindi seleziona Amici. Seleziona il tuo ex-amico, quindi vai su 'Rimuovi'."
+	}
+	"Help7"
+	{
+		"it"		"Assegnazione del menu ad un tasto in corso"
+	}
+	"Help7Text"
+	{
+		"it"		"Vai nella console e scrivi 'bind <key> pm'. Da ora in poi ogni volta che premi <key>, il menu principale sarà aperto."
+	}
+	"Back to help"
+	{
+		"it"		"Indietro"
+	}
+	
+	
+	"SecondsShort"
+	{
+		"it"		"secondi"
+	}
+	"MinutesShort"
+	{
+		"it"		"minuti"
+	}
+	"HoursShort"
+	{
+		"it"		"ore"
+	}
+	"DaysShort"
+	{
+		"it"		"giorni"
+	}
+	"MonthsShort"
+	{
+		"it"		"mesi"
+	}
+	"YearsShort"
+	{
+		"it"		"anni"
+	}
+	"X ago"
+	{
+		"it"		"{1} fa"
+	}
+	
+	
+	"Viewing message #X"
+	{
+		"it"		"Visualizzazione del messaggio #{1}"
+	}
+	"Received time"
+	{
+		"it"		"Ricevuto"
+	}
+	"From"
+	{
+		"it"		"Da"
+	}
+	"Name"
+	{
+		"it"		"Nome"
+	}
+	"Reply prompt"
+	{
+		"it"		"Rispondi usando 'pmreply' in chat"
+	}
+	"Delete message"
+	{
+		"it"		"Cancella messaggio"
+	}
+	"Back to Inbox"
+	{
+		"it"		"Indietro"
+	}
+	"Close"
+	{
+		"it"		"Chiudi
+	}
+	
+	
+	"Inbox"
+	{
+		"it"		"Messaggi in arrivo"
+	}
+	"Friends"
+	{
+		"it"		"Amici"
+	}
+	"Blocklist"
+	{
+		"it"		"Utenti bloccati"
+	}
+	"Help"
+	{
+		"it"		"Aiuto"
+	}
+	"User Menu"
+	{
+		"it"		"Menu utente"
+	}
+	"Choose a recipient"
+	{
+		"it"		"Scegli un destinatario"
+	}
+	"Add Friend Title"
+	{
+		"it"		"Aggiungi amico"
+	}
+
+	
+	"Add friend"
+	{
+		"it"		"Aggiungi amico"
+	}
+	"Remove friend"
+	{
+		"it"		"Rimuovi amico"
+	}
+	"Block user"
+	{
+		"it"		"Blocca un utente"
+	}
+	"Unblock user"
+	{
+		"it"		"Sblocca un utente"
+	}
+	"Delete all"
+	{
+		"it"		"Cancella tutti i messaggi di questo utente"
+	}
+	"Back to Main Menu"
+	{
+		"it"		"Indietro"
+	}
+	
+	
+	"Groups"
+	{
+		"it"		"Gruppi"
+	}
+	"Create group"
+	{
+		"it"		"Crea un gruppo"
+	}
+	"Create group hint"
+	{
+		"it"		"Crea un gruppo usando il comando 'pmcreategroup' in chat. Vai al menu 'Aiuto' per ulteriori dettagli."
+	}
+	"Go to help menu"
+	{
+		"it"		"Vai al menu 'Help'"
+	}
+	"Need groups first"
+	{
+		"it"		"Non hai ancora creato alcun gruppo."
+	}
+	"Choose group recipient"
+	{
+		"it"		">> Invia al gruppo"
+	}
+	"Member added."
+	{
+		"it"		"Membro aggiunto al gruppo."
+	}
+	"Sample group name"
+	{
+		"it"		"nome del gruppo"
+	}
+	"Group created."
+	{
+		"it"		"Gruppo creato. Vai al menu 'Help' per ulteriori dettagli."
+	}
+	"Group Members"
+	{
+		"it"		"Membri"
+	}
+	"Select group to remove from"
+	{
+		"it"		"Seleziona il gruppo da cui rimuoverlo"
+	}
+	"Group member removed."
+	{
+		"it"		"Membro rimosso dal gruppo."
+	}
+	"Group removed."
+	{
+		"it"		"Gruppo rimosso."
+	}
+	"Choose a group"
+	{
+		"it"		"Seleziona un gruppo"
+	}
+	"User not part of your groups."
+	{
+		"it"		"L'utente selezionato non è membro di uno dei tuoi gruppo."
+	}
+	"Add to group"
+	{
+		"it"		"Aggiungi al gruppo"
+	}
+	"Remove from group"
+	{
+		"it"		"Rimuovi dal gruppo"
+	}
+	"No users in group."
+	{
+		"it"		"Non ci sono utenti in questo gruppo."
+	}
+	"Group creation limit reached"
+	{
+		"it"		"Hai già creato 3 gruppi l'ultimo minuto. Aspetta prima di crearne altri."
+	}
+	
+	"Outbox"
+	{
+		"it"		"Messaggi in uscita"
+	}
+	"No sent messages to view"
+	{
+		"it"		"La tua cartella di messaggi in uscita è vuota."
+	}
+	"Back to outbox"
+	{
+		"it"		"Indietro"
+	}
+	"To"
+	{
+		"it"		"A"
+	}
+	"Sent time"
+	{
+		"it"		"Inviato"
+	}
+
+	"Online"
+	{
+		"it"		"Online"
+	}
+	"Offline"
+	{
+		"it"		"Offline"
+	}
+	
+	"Help8"
+	{
+		"it"		"Creazione del gruppo in corso"
+	}
+	"Help8Text"
+	{
+		"it"		"Scrivi 'pmcreategroup' in chat, seguito dal nome desiderato."
+	}
+	"Help9"
+	{
+		"it"		"Rimozione del gruppo"
+	}
+	"Help9Text"
+	{
+		"it"		"Scrivi 'pmdeletegroup' in chat, quindi seleziona il gruppo che desideri eliminare dal menu che appare."
+	}
+	"Help10"
+	{
+		"it"		"Aggiunta di giocatori al gruppo"
+	}
+	"Help10Text"
+	{
+		"it"		"Vai alla pagina dei giocatori, seleziona 'Aggiungi a un gruppo', quindi scegli il gruppo dove vuoi aggiungerli."
+	}
+	"Help11"
+	{
+		"it"		"Invio al gruppo in corso"
+	}
+	"Help11Text"
+	{
+		"it"		"Usa pmsend normalmente, ma nella lista dei destinatari seleziona 'Invia a un gruppo'."
+	}
+	"Help12"
+	{
+		"it"		"Rimozione dei giocatori dal gruppo"
+	}
+	"Help12Text"
+	{
+		"it"		"Vai alla pagina dei giocatori, seleziona 'Rimuovi da un gruppo', quindi seleziona il gruppo dal quale rimuoverli."
+	}
+	
+	"Blocked by ID"
+	{
+		"it"		"Ti è stato proibito inviare messaggi a <{1}>."
+	}
+	
+	"Group owner changed."
+	{
+		"it"		"Capo del gruppo cambiato."
+	}
+}

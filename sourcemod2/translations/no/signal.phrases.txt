@@ -1,0 +1,487 @@
+"Phrases"
+{
+	"Restricted to in-game"
+	{
+		"no"		"Dette programtillegget kan kun brukes av spillere."
+	}
+	"Message limit reached"
+	{
+		"no"		"Grensen på {1} meldinger per minutt er nådd. Vennligst vent før du prøver igjen."
+	}
+	"You are blocked"
+	{
+		"no"		"Du er blokkert fra å sende meldinger til den brukeren."
+	}
+	"Need friends first"
+	{
+		"no"		"Du må legge til noen i vennelisten din før du kan sende en melding (skriv 'pmfriends' i samtalevinduet)."
+	}
+	"No message viewed"
+	{
+		"no"		"Du har ikke vist en melding ennå."
+	}
+	"No messages to view"
+	{
+		"no"		"Innboksen din er tom."
+	}
+	"No blocks to view"
+	{
+		"no"		"Blokkeringslisten din er tom."
+	}
+	"Message doesn't exist"
+	{
+		"no"		"Meldingen du valgte eksisterer ikke lenger."
+	}
+	"User doesn't exist"
+	{
+		"no"		"Brukeren er ikke lenger tilgjengelig."
+	}
+	"User doesn't exist in DB"
+	{
+		"no"		"Kunne ikke finne brukeren. Prøv igjen."
+	}
+
+
+	"Usage"
+	{
+		"no"		"Bruk"
+	}
+	"Sample message text"
+	{
+		"no"		"melding"
+	}
+	
+	
+	"Message sent."
+	{
+		"no"		"Meldingen er sendt."
+	}
+	
+	
+	"One unread"
+	{
+		"no"		"Én ulest melding i innboksen din. Skriv 'pminbox' i samtalevinduet for å vise den."
+	}
+	"Multiple unread"
+	{
+		"no"		"{1} uleste meldinger i innboksen din. Skriv 'pminbox' i samtalevinduet for å vise den."
+	}
+	"Unread"
+	{
+		"no"		"Ulest"
+	}
+	
+	
+	"Check DB settings"
+	{
+		"no"		"Vennligst sjekk databaseinstillingene."
+	}
+	"Error in logs"
+	{
+		"no"		"Se i konsollet/loggene for detaljert feilmelding."
+	}
+	"Got DB conn"
+	{
+		"no"		"Databaseforbindelsen er opprettet."
+	}
+	"Error"
+	{
+		"no"		"Feil"
+	}
+	"Database Query"
+	{
+		"no"		"Databasespørring"
+	}
+	"Database Connection"
+	{
+		"no"		"Databaseforbindelse"
+	}
+	
+
+	
+	"User blocked."
+	{
+		"no"		"Bruker blokkert. Behandle blokkeringer med kommandoen 'pmblocks' i samtalevinduet."
+	}
+	"User unblocked."
+	{
+		"no"		"Brukerblokkering opphevet."
+	}
+	"Friend added."
+	{
+		"no"		"Venn lagt til. Send en melding med kommandoen 'pmsend' i samtalevinduet."
+	}
+	"Friend removed."
+	{
+		"no"		"Venn fjernet."
+	}
+	"Message deleted."
+	{
+		"no"		"Melding slettet."
+	}
+	"Messages deleted."
+	{
+		"no"		"Meldinger slettet."
+	}
+	"Action not performed"
+	{
+		"no"		"En databasefeil har oppstått på tjeneren. Vennligst prøv igjen."
+	}
+	
+	
+	"Blocked"
+	{
+		"no"		"Blokkert"
+	}
+	"Friend"
+	{
+		"no"		"Venn"
+	}
+	"Autoadd"
+	{
+		"no"		"Tjenerkontakt"
+	}
+	
+	
+	"Help1"
+	{
+		"no"		"Legge til en venn"
+	}
+	"Help1Text"
+	{
+		"no"		"Gå til hovedmenyen ('pm' i samtalevinduet), velg 'Venner' og deretter velg 'Legg til venn'. Alternativt, skriv 'pmfriends' for å gå direkte til vennelisten."
+	}
+	"Help2"
+	{
+		"no"		"Sende en melding"
+	}
+	"Help2Text"
+	{
+		"no"		"Skriv 'pmsend' i samtalevinduet, etterfulgt av meldingen. Velg til slutt en mottaker fra vennelisten som åpnes."
+	}
+	"Help3"
+	{
+		"no"		"Svare på en melding"
+	}
+	"Help3Text"
+	{
+		"no"		"Skriv 'pmreply' i samtalevinduet, etterfulgt av meldingen. Dette virker selv om du har lukket meldingen du svarer på."
+	}
+	"Help4"
+	{
+		"no"		"Motta en melding"
+	}
+	"Help4Text"
+	{
+		"no"		"Du skal få et varsel når du har en ulest melding. Skriv 'pminbox' i samtalevinduet (eller 'pm' etterfulgt av valget 'Innboks') for å lese den. Der kan du også lese tidligere meldinger."
+	}
+	"Help5"
+	{
+		"no"		"Blokkere en bruker"
+	}
+	"Help5Text"
+	{
+		"no"		"Gå til en melding som brukeren har sendt og velg '1' for å merke den. Velg deretter 'Blokker bruker'."
+	}
+	"Help6"
+	{
+		"no"		"Fjerne en venn"
+	}
+	"Help6Text"
+	{
+		"no"		"Åpne vennelisten med kommandoen 'pmfriends' i samtalevinduet (eller 'pm' etterfulgt av valget 'Venner'). Merk vennen du vil fjerne og velg 'Fjern venn'."
+	}
+	"Help7"
+	{
+		"no"		"Tilordne menyen til en knapp"
+	}
+	"Help7Text"
+	{
+		"no"		"Åpne konsollet og skriv 'bind <key> pm', hvor '<key>' erstattes med knappen du vil bruke for å åpne menyen."
+	}
+	"Back to help"
+	{
+		"no"		"Tilbake til Hjelp"
+	}
+	
+	
+	"SecondsShort"
+	{
+		"no"		"sekunder"
+	}
+	"MinutesShort"
+	{
+		"no"		"minutter"
+	}
+	"HoursShort"
+	{
+		"no"		"timer"
+	}
+	"DaysShort"
+	{
+		"no"		"dager"
+	}
+	"MonthsShort"
+	{
+		"no"		"måneder"
+	}
+	"YearsShort"
+	{
+		"no"		"år"
+	}
+	"X ago"
+	{
+		"no"		"{1} siden"
+	}
+	
+	
+	"Viewing message #X"
+	{
+		"no"		"Viser melding #{1}"
+	}
+	"Received time"
+	{
+		"no"		"Mottatt"
+	}
+	"From"
+	{
+		"no"		"Fra"
+	}
+	"Name"
+	{
+		"no"		"Navn"
+	}
+	"Reply prompt"
+	{
+		"no"		"Svar ved å bruke kommandoen 'pmreply' i samtalevinduet."
+	}
+	"Delete message"
+	{
+		"no"		"Slett melding"
+	}
+	"Back to Inbox"
+	{
+		"no"		"Tilbake til innboksen"
+	}
+	"Close"
+	{
+		"no"		"Lukk"
+	}
+	
+	
+	"Inbox"
+	{
+		"no"		"Innboks"
+	}
+	"Friends"
+	{
+		"no"		"Venner"
+	}
+	"Blocklist"
+	{
+		"no"		"Blokkeringsliste"
+	}
+	"Help"
+	{
+		"no"		"Hjelp"
+	}
+	"User Menu"
+	{
+		"no"		"Brukermeny"
+	}
+	"Choose a recipient"
+	{
+		"no"		"Velg en mottaker"
+	}
+	"Add Friend Title"
+	{
+		"no"		"Legg til en venn"
+	}
+
+	
+	"Add friend"
+	{
+		"no"		"Legg til venn"
+	}
+	"Remove friend"
+	{
+		"no"		"Fjern venn"
+	}
+	"Block user"
+	{
+		"no"		"Blokker bruker"
+	}
+	"Unblock user"
+	{
+		"no"		"Opphev brukerblokkering"
+	}
+	"Delete all"
+	{
+		"no"		"Slett alle meldingene fra denne brukeren"
+	}
+	"Back to Main Menu"
+	{
+		"no"		"Tilbake til hovedmenyen"
+	}
+	
+		
+	
+	"Groups"
+	{
+		"no"		"Grupper"
+	}
+	"Create group"
+	{
+		"no"		"Opprett gruppe"
+	}
+	"Create group hint"
+	{
+		"no"		"Opprett en gruppe ved å bruke kommandoen 'pmcreategroup'. Se hjelpmenyen for detaljer."
+	}
+	"Go to help menu"
+	{
+		"no"		"Gå til hjelpmenyen"
+	}
+	"Need groups first"
+	{
+		"no"		"Du har ikke opprettet noen grupper ennå."
+	}
+	"Choose group recipient"
+	{
+		"no"		">> Send til gruppe"
+	}
+	"Member added."
+	{
+		"no"		"Bruker lagt til i gruppe."
+	}
+	"Sample group name"
+	{
+		"no"		"gruppenavn"
+	}
+	"Group created."
+	{
+		"no"		"Gruppe opprettet. Se hjelpmenyen for mer info."
+	}
+	"Group Members"
+	{
+		"no"		"Gruppemedlemmer"
+	}
+	"Select group to remove from"
+	{
+		"no"		"Velg gruppe å fjerne fra"
+	}
+	"Group member removed."
+	{
+		"no"		"Bruker fjernet fra gruppe."
+	}
+	"Group removed."
+	{
+		"no"		"Gruppe fjernet."
+	}
+	"Choose a group"
+	{
+		"no"		"Velg en gruppe"
+	}
+	"User not part of your groups."
+	{
+		"no"		"Den valgte brukeren er ikke et medlem i noen av gruppene du eier."
+	}
+	"Add to group"
+	{
+		"no"		"Legg til i gruppe"
+	}
+	"Remove from group"
+	{
+		"no"		"Fjern fra gruppe"
+	}
+	"No users in group."
+	{
+		"no"		"Det er ingen brukere i gruppen."
+	}
+	"Group creation limit reached"
+	{
+		"no"		"Du har allerede opprettet tre grupper det siste minuttet. Vennligst vent før du oppretter flere."
+	}
+	
+	"Outbox"
+	{
+		"no"		"Sendte meldinger"
+	}
+	"No sent messages to view"
+	{
+		"no"		"Du har ingen lagrede sendte meldinger."
+	}
+	"Back to outbox"
+	{
+		"no"		"Tilbake til sendte meldinger"
+	}
+	"To"
+	{
+		"no"		"Til"
+	}
+	"Sent time"
+	{
+		"no"		"Sendt"
+	}
+
+	"Online"
+	{
+		"no"		"Pålogget"
+	}
+	"Offline"
+	{
+		"no"		"Avlogget"
+	}
+	
+	"Help8"
+	{
+		"no"		"Opprette en gruppe"
+	}
+	"Help8Text"
+	{
+		"no"		"Skriv 'pmcreategroup' i samtalevinduet, etterfulgt av navnet på gruppen."
+	}
+	"Help9"
+	{
+		"no"		"Fjerne en gruppe"
+	}
+	"Help9Text"
+	{
+		"no"		"Skriv 'pmdeletegroup' i samtalevinduet, deretter velg gruppen du vil fjerne fra menyen som dukker opp."
+	}
+	"Help10"
+	{
+		"no"		"Legge til brukere til en gruppe"
+	}
+	"Help10Text"
+	{
+		"no"		"Gå til brukeren side og velg 'Legg til i gruppe', deretter velg gruppen som brukeren skal legges til i."
+	}
+	"Help11"
+	{
+		"no"		"Sende melding til en gruppe"
+	}
+	"Help11Text"
+	{
+		"no"		"Bruk pmsend som normal, men velg 'Send til gruppe' som mottaker."
+	}
+	"Help12"
+	{
+		"no"		"Fjerne brukere fra en gruppe"
+	}
+	"Help12Text"
+	{
+		"no"		"Gå til brukerens side og velg 'Fjern fra gruppe', deretter velg gruppen som brukeren skal fjernes fra."
+	}
+	
+	"Blocked by ID"
+	{
+		"no"		"Du er blokkert fra å sende meldinger til <{1}>."
+	}
+	
+		
+	"Group owner changed."
+	{
+		"no"		"Group owner changed."
+	}
+}

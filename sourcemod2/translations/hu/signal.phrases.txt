@@ -1,0 +1,485 @@
+"Phrases"
+{
+	"Restricted to in-game"
+	{
+		"hu"		"A plugin csak jatek kozben hasznalhato."
+	}
+	"Message limit reached"
+	{
+		"hu"		"Percenkenti {1} uzenet limitet elérted. Kerlek varj es probald ujra."
+	}
+	"You are blocked"
+	{
+		"hu"		"Ez a felhasznalo blokolta az uzeneteidet."
+	}
+	"Need friends first"
+	{
+		"hu"		"Hozza kell adnod valakit az ismeroseidhez (ird be: 'pmfriends') mielott uzenetet kuldhetnel."
+	}
+	"No message viewed"
+	{
+		"hu"		"Meg nem nezted meg az uzeneted."
+	}
+	"No messages to view"
+	{
+		"hu"		"Nincs bejovo uzeneted."
+	}
+	"No blocks to view"
+	{
+		"hu"		"A bliklistad ures."
+	}
+	"Message doesn't exist"
+	{
+		"hu"		"Az uzenet amit valasztottal, mar nem letezik."
+	}
+	"User doesn't exist"
+	{
+		"hu"		"A felhasznalo nem letezik."
+	}
+	"User doesn't exist in DB"
+	{
+		"hu"		"A kivalasztott felhasznalo mar nem letezik. Kerlek probald ujra."
+	}
+
+
+	"Usage"
+	{
+		"hu"		"Hasznalat"
+	}
+	"Sample message text"
+	{
+		"hu"		"Uzenet"
+	}
+	
+	
+	"Message sent."
+	{
+		"hu"		"Uzenet elkuldve."
+	}
+	
+	
+	"One unread"
+	{
+		"hu"		"Egy olvasatlan uzenet. Olvasashoz ird be a chatbe: 'pminbox'."
+	}
+	"Multiple unread"
+	{
+		"hu"		"{1} olvasatlan uzenet. Olvasashoz ird be a chatbe: 'pminbox'."
+	}
+	"Unread"
+	{
+		"hu"		"Olvasatlan"
+	}
+	
+	
+	"Check DB settings"
+	{
+		"hu"		"Kerlek ellenorizd az adatbazis beallitasokat."
+	}
+	"Error in logs"
+	{
+		"hu"		"Nezd meg a konzolt/logot a hibauzenethez."
+	}
+	"Got DB conn"
+	{
+		"hu"		"Adatbazis-kapcsolat letrehozva."
+	}
+	"Error"
+	{
+		"hu"		"Hiba"
+	}
+	"Database Query"
+	{
+		"hu"		"Adatbazis lekerdezes"
+	}
+	"Database Connection"
+	{
+		"hu"		"Adatbazis kapcsolat"
+	}
+	
+
+	
+	"User blocked."
+	{
+		"hu"		"Felhasznalo blokolva. Bolokolasok kezelesehez ird chatbe: 'pmblocks'."
+	}
+	"User unblocked."
+	{
+		"hu"		"Felhasznalo blokolva."
+	}
+	"Friend added."
+	{
+		"hu"		"Ismeros hozzaadva. Kuldj uzenetet 'pmsend' parancsal ."
+	}
+	"Friend removed."
+	{
+		"hu"		"Ismeros eltavolitva."
+	}
+	"Message deleted."
+	{
+		"hu"		"Uzenet torolve."
+	}
+	"Messages deleted."
+	{
+		"hu"		"Uzenetek torolve."
+	}
+	"Action not performed"
+	{
+		"hu"		"Adatbazis hiba tortent. Kerlek probald ujra."
+	}
+	
+	
+	"Blocked"
+	{
+		"hu"		"Blokolva"
+	}
+	"Friend"
+	{
+		"hu"		"Ismeros"
+	}
+	"Autoadd"
+	{
+		"hu"		"Server Ismeros"
+	}
+	
+	
+	"Help1"
+	{
+		"hu"		"Ismeros hozzaadasa"
+	}
+	"Help1Text"
+	{
+		"hu"		"Menj a fomenube ('pm' a chatbe), valaszd hogy ismeros, aztan valaszd 'Ismeros hozzaadasa'. Vagy, irdbe a chetbe: 'pmfriends'."
+	}
+	"Help2"
+	{
+		"hu"		"PM kuldese"
+	}
+	"Help2Text"
+	{
+		"hu"		"Ird a chetbe: 'pmsend', ird utanna az uzeneted. Az ismeroseid listaja megnyilik, es ki kell valasztanod kinek kuldod."
+	}
+	"Help3"
+	{
+		"hu"		"Valasz egy PM-re"
+	}
+	"Help3Text"
+	{
+		"hu"		"Ird a chetbe: 'pmreply', ird utanna az uzenetedet. Ez akkor mukodik, ha azutan csinalod, miutan bezarod az uzenetet, amire valaszolni szeretnel."
+	}
+	"Help4"
+	{
+		"hu"		"Uzenet fogadasa"
+	}
+	"Help4Text"
+	{
+		"hu"		"Kapsz egy ertesitest, ha van olvasatlan uzeneted. Ird a chetbe: 'pminbox' (vagy 'pm', es valaszd a bejovo uzeneteket) az olvasashoz. Itt tudod elolvasni a regi uzeneteket."
+	}
+	"Help5"
+	{
+		"hu"		"Felhasznalo blokolasa"
+	}
+	"Help5Text"
+	{
+		"hu"		"Menny az uzenethez amit a flehasznalo kuldott, nyomd meg az '1'-es hogy kivalaszd ot. Valaszd 'Felhasznalo blokolasa' a menuben."
+	}
+	"Help6"
+	{
+		"hu"		"Ismeros torlese"
+	}
+	"Help6Text"
+	{
+		"hu"		"Ird a chetbe: 'pmfriends' (vagy 'pm', es valaszd az ismerosok menupontot). Valaszd ki a torolni kivant felhasznalot, majd valaszd: 'Ismeros torlese'."
+	}
+	"Help7"
+	{
+		"hu"		"Menu billentyure bindelese"
+	}
+	"Help7Text"
+	{
+		"hu"		"Ird be a konzolba: 'bind <billentyu> pm'. Ha megnyomod a valasztott bilenytut, a fomenu megnyilik."
+	}
+	"Back to help"
+	{
+		"hu"		"Vissza a segitseghez"
+	}
+	
+	
+	"SecondsShort"
+	{
+		"hu"		"mp"
+	}
+	"MinutesShort"
+	{
+		"hu"		"perc"
+	}
+	"HoursShort"
+	{
+		"hu"		"ora"
+	}
+	"DaysShort"
+	{
+		"hu"		"nap"
+	}
+	"MonthsShort"
+	{
+		"hu"		"honap"
+	}
+	"YearsShort"
+	{
+		"hu"		"ev"
+	}
+	"X ago"
+	{
+		"hu"		"{1}-e"
+	}
+	
+	
+	"Viewing message #X"
+	{
+		"hu"		"Uzenet megtekintese #{1}"
+	}
+	"Received time"
+	{
+		"hu"		"Erkezett"
+	}
+	"From"
+	{
+		"hu"		"tol"
+	}
+	"Name"
+	{
+		"hu"		"Nev"
+	}
+	"Reply prompt"
+	{
+		"hu"		"Valasz kuldesehez ird a chetbe: 'pmreply'"
+	}
+	"Delete message"
+	{
+		"hu"		"Uzenet torlese"
+	}
+	"Back to Inbox"
+	{
+		"hu"		"Vissza a bejovo uzenetekhez"
+	}
+	"Close"
+	{
+		"hu"		"Bezaras"
+	}
+	
+	
+	"Inbox"
+	{
+		"hu"		"Bejovo uzenetek"
+	}
+	"Friends"
+	{
+		"hu"		"Ismerosok"
+	}
+	"Blocklist"
+	{
+		"hu"		"Bloklista"
+	}
+	"Help"
+	{
+		"hu"		"Segitseg"
+	}
+	"User Menu"
+	{
+		"hu"		"Felhasznalo menu"
+	}
+	"Choose a recipient"
+	{
+		"hu"		"Valasz cimzettet"
+	}
+	"Add Friend Title"
+	{
+		"hu"		"Ismerosokhoz adas"
+	}
+
+	
+	"Add friend"
+	{
+		"hu"		"Hozzaadas ismerosokhoz"
+	}
+	"Remove friend"
+	{
+		"hu"		"Ismeros torlese"
+	}
+	"Block user"
+	{
+		"hu"		"Felhasznalo blokolasa"
+	}
+	"Unblock user"
+	{
+		"hu"		"Felhasznalo blokolasanak feloldasa"
+	}
+	"Delete all"
+	{
+		"hu"		"Oszes uzenet torlese ettol a felhasznalotol"
+	}
+	"Back to Main Menu"
+	{
+		"hu"		"Vissza a fomenube"
+	}
+	
+	
+	"Groups"
+	{
+		"hu"		"Csoportok"
+	}
+	"Create group"
+	{
+		"hu"		"Csoport keszitese"
+	}
+	"Create group hint"
+	{
+		"hu"		"Csoport keszitesehez ird a chetbe: 'pmcreategroup'. Tovabbi ibformacioert nezd a segitseg menut."
+	}
+	"Go to help menu"
+	{
+		"hu"		"Belepes a segitseg menube"
+	}
+	"Need groups first"
+	{
+		"hu"		"Meg egy csoportot sem keszitettel."
+	}
+	"Choose group recipient"
+	{
+		"hu"		">> Kuldes csoportnak"
+	}
+	"Member added."
+	{
+		"hu"		"Tag hozzaadva a csoporthoz."
+	}
+	"Sample group name"
+	{
+		"hu"		"csoport nev"
+	}
+	"Group created."
+	{
+		"hu"		"Csoport letrehozva. Tovabbi informaciokert nezd meg a segitseg menupontotk"
+	}
+	"Group Members"
+	{
+		"hu"		"Csoport tagok"
+	}
+	"Select group to remove from"
+	{
+		"hu"		"Valasz csoportot az eltavolitashoz"
+	}
+	"Group member removed."
+	{
+		"hu"		"Tag totolve a csoportbol."
+	}
+	"Group removed."
+	{
+		"hu"		"Csoport torolve."
+	}
+	"Choose a group"
+	{
+		"hu"		"Valasz csoportot"
+	}
+	"User not part of your groups."
+	{
+		"hu"		"A kivalasztott felhasznalo egyik csoportodnak sem tagja."
+	}
+	"Add to group"
+	{
+		"hu"		"Csoport hozzaadasa"
+	}
+	"Remove from group"
+	{
+		"hu"		"Torles a csoportbol"
+	}
+	"No users in group."
+	{
+		"hu"		"Ebben a csoportban nincsenek felhasznalok."
+	}
+	"Group creation limit reached"
+	{
+		"hu"		"Mar keszitettel 3 csoportot az elmult 1 percben. Kerlek varj, mielott tobbet csinalsz."
+	}
+	
+	"Outbox"
+	{
+		"hu"		"Kimeno levelek"
+	}
+	"No sent messages to view"
+	{
+		"hu"		"Nincs kimeno leveled."
+	}
+	"Back to outbox"
+	{
+		"hu"		"Vissza a kimeno levelekhez"
+	}
+	"To"
+	{
+		"hu"		" "
+	}
+	"Sent time"
+	{
+		"hu"		"Elkuldve"
+	}
+
+	"Online"
+	{
+		"hu"		"Elerheto"
+	}
+	"Offline"
+	{
+		"hu"		"Nem elerheto"
+	}
+	
+	"Help8"
+	{
+		"hu"		"Csoport keszitese"
+	}
+	"Help8Text"
+	{
+		"hu"		"Ird a chetbe: 'pmcreategroup', ird utanna a kivant nevet."
+	}
+	"Help9"
+	{
+		"hu"		"Csoport torlese"
+	}
+	"Help9Text"
+	{
+		"hu"		"Ird a chetbe: 'pmdeletegroup', majd valaszd ki a torolni kivant csoportot a menubol."
+	}
+	"Help10"
+	{
+		"hu"		"Jatekos hozzaadasa a csoporthoz"
+	}
+	"Help10Text"
+	{
+		"hu"		"Meny a felhasznalo szemelyes oldalara, valaszd 'Add to group', majd valaszd ki, melyik csoporthoz akarod hozzaadni."
+	}
+	"Help11"
+	{
+		"hu"		"Kuldes csoportnak"
+	}
+	"Help11Text"
+	{
+		"hu"		"Hasznald a 'pmsend' parancsot, de a cimzett listabol valaszd a 'Kuldes csoportnak' opciot."
+	}
+	"Help12"
+	{
+		"hu"		"Felhasznalok torlese a csoportbol"
+	}
+	"Help12Text"
+	{
+		"hu"		"Menny a felhasznalo szemelyes oldalara, valaszd 'Torles csoportbol', majd valasz csoportot, ahonnan torolni szeretned."
+	}
+	
+	"Blocked by ID"
+	{
+		"hu"		"Blokolva vagy hogy uzenetet kuldj <{1}>-nek."
+	}
+	
+	"Group owner changed."
+	{
+		"hu"		"Csoport tulajdonos megvaltozott."
+	}
+}

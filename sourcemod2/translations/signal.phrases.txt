@@ -1,0 +1,490 @@
+"Phrases"
+{
+	"Restricted to in-game"
+	{
+		"en"		"This plugin can only be used in-game."
+	}
+	"Message limit reached"
+	{
+		"#format"	"{1:d}"
+		"en"		"Limit of {1} messages per minute reached. Please wait before trying again."
+	}
+	"You are blocked"
+	{
+		"en"		"You are blocked from sending messages to that user."
+	}
+	"Need friends first"
+	{
+		"en"		"You need to add someone to your friends list ('pmfriends' in chat) before sending a message."
+	}
+	"No message viewed"
+	{
+		"en"		"You haven't viewed a message yet."
+	}
+	"No messages to view"
+	{
+		"en"		"Your inbox is empty."
+	}
+	"No blocks to view"
+	{
+		"en"		"Your blocklist is empty."
+	}
+	"Message doesn't exist"
+	{
+		"en"		"The message you selected no longer exists."
+	}
+	"User doesn't exist"
+	{
+		"en"		"Player no longer available."
+	}
+	"User doesn't exist in DB"
+	{
+		"en"		"The user you selected could not be found. Please try again."
+	}
+
+
+	"Usage"
+	{
+		"en"		"Usage"
+	}
+	"Sample message text"
+	{
+		"en"		"message"
+	}
+	
+	
+	"Message sent."
+	{
+		"en"		"Message sent."
+	}
+	
+	
+	"One unread"
+	{
+		"en"		"One unread message in your inbox. Type 'pminbox' in chat to view."
+	}
+	"Multiple unread"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} unread messages in your inbox. Type 'pminbox' in chat to view."
+	}
+	"Unread"
+	{
+		"en"		"Unread"
+	}
+	
+	
+	"Check DB settings"
+	{
+		"en"		"Please check your database settings."
+	}
+	"Error in logs"
+	{
+		"en"		"See console/logs for detailed error message."
+	}
+	"Got DB conn"
+	{
+		"en"		"Database connection established."
+	}
+	"Error"
+	{
+		"en"		"Error"
+	}
+	"Database Query"
+	{
+		"en"		"Database Query"
+	}
+	"Database Connection"
+	{
+		"en"		"Database Connection"
+	}
+	
+
+	
+	"User blocked."
+	{
+		"en"		"User blocked. Manage blocks with 'pmblocks' in chat."
+	}
+	"User unblocked."
+	{
+		"en"		"User unblocked."
+	}
+	"Friend added."
+	{
+		"en"		"Friend added. Send a message using the 'pmsend' command in chat."
+	}
+	"Friend removed."
+	{
+		"en"		"Friend removed."
+	}
+	"Message deleted."
+	{
+		"en"		"Message deleted."
+	}
+	"Messages deleted."
+	{
+		"en"		"Messages deleted."
+	}
+	"Action not performed"
+	{
+		"en"		"A database error has occurred on the server. Please try again."
+	}
+	
+	
+	"Blocked"
+	{
+		"en"		"Blocked"
+	}
+	"Friend"
+	{
+		"en"		"Friend"
+	}
+	"Autoadd"
+	{
+		"en"		"Server Friend"
+	}
+	
+	
+	"Help1"
+	{
+		"en"		"Adding a friend"
+	}
+	"Help1Text"
+	{
+		"en"		"Go to the main menu ('pm' in chat), select friends, then select 'Add Friend'. Or, type 'pmfriends' in chat."
+	}
+	"Help2"
+	{
+		"en"		"Sending a PM"
+	}
+	"Help2Text"
+	{
+		"en"		"Type 'pmsend' in chat, followed by your message. Your friends list will open, and you may select a recipient."
+	}
+	"Help3"
+	{
+		"en"		"Replying to a PM"
+	}
+	"Help3Text"
+	{
+		"en"		"Type 'pmreply' in chat, followed by your message. This works even after you've closed the message you're replying to."
+	}
+	"Help4"
+	{
+		"en"		"Receiving a PM"
+	}
+	"Help4Text"
+	{
+		"en"		"You should receive a notification when you have an unread message. Type 'pminbox' in chat (or 'pm', then select Inbox) to read it. You can also read old messages."
+	}
+	"Help5"
+	{
+		"en"		"Blocking a user"
+	}
+	"Help5Text"
+	{
+		"en"		"Go to a message the user sent, and press '1' to select them. Select 'Block User' from the menu."
+	}
+	"Help6"
+	{
+		"en"		"Removing a friend"
+	}
+	"Help6Text"
+	{
+		"en"		"Go to your friends list with 'pmfriends' in chat (or 'pm', then select Friends). Select your ex-friend, then select 'Remove Friend'."
+	}
+	"Help7"
+	{
+		"en"		"Binding the menu to a key"
+	}
+	"Help7Text"
+	{
+		"en"		"Go to your console and type 'bind <key> pm'. Now whenever you press <key>, the main menu will open."
+	}
+	"Back to help"
+	{
+		"en"		"Back to help"
+	}
+	
+	
+	"SecondsShort"
+	{
+		"en"		"secs"
+	}
+	"MinutesShort"
+	{
+		"en"		"mins"
+	}
+	"HoursShort"
+	{
+		"en"		"hrs"
+	}
+	"DaysShort"
+	{
+		"en"		"days"
+	}
+	"MonthsShort"
+	{
+		"en"		"months"
+	}
+	"YearsShort"
+	{
+		"en"		"yrs"
+	}
+	"X ago"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} ago"
+	}
+	
+	
+	"Viewing message #X"
+	{
+		"#format"	"{1:d}"
+		"en"		"Viewing message #{1}"
+	}
+	"Received time"
+	{
+		"en"		"Received"
+	}
+	"From"
+	{
+		"en"		"From"
+	}
+	"Name"
+	{
+		"en"		"Name"
+	}
+	"Reply prompt"
+	{
+		"en"		"Reply using 'pmreply' in chat"
+	}
+	"Delete message"
+	{
+		"en"		"Delete message"
+	}
+	"Back to Inbox"
+	{
+		"en"		"Back to Inbox"
+	}
+	"Close"
+	{
+		"en"		"Close"
+	}
+	
+	
+	"Inbox"
+	{
+		"en"		"Inbox"
+	}
+	"Friends"
+	{
+		"en"		"Friends"
+	}
+	"Blocklist"
+	{
+		"en"		"Blocklist"
+	}
+	"Help"
+	{
+		"en"		"Help"
+	}
+	"User Menu"
+	{
+		"en"		"User Menu"
+	}
+	"Choose a recipient"
+	{
+		"en"		"Choose a recipient"
+	}
+	"Add Friend Title"
+	{
+		"en"		"Add Friend"
+	}
+
+	
+	"Add friend"
+	{
+		"en"		"Add friend"
+	}
+	"Remove friend"
+	{
+		"en"		"Remove friend"
+	}
+	"Block user"
+	{
+		"en"		"Block user"
+	}
+	"Unblock user"
+	{
+		"en"		"Unblock user"
+	}
+	"Delete all"
+	{
+		"en"		"Delete all messages from this user"
+	}
+	"Back to Main Menu"
+	{
+		"en"		"Back to Main Menu"
+	}
+	
+	
+	"Groups"
+	{
+		"en"		"Groups"
+	}
+	"Create group"
+	{
+		"en"		"Create group"
+	}
+	"Create group hint"
+	{
+		"en"		"Create a group using the 'pmcreategroup' command in chat. See the help menu for more details."
+	}
+	"Go to help menu"
+	{
+		"en"		"Go to help menu"
+	}
+	"Need groups first"
+	{
+		"en"		"You have not created any groups yet."
+	}
+	"Choose group recipient"
+	{
+		"en"		">> Send to group"
+	}
+	"Member added."
+	{
+		"en"		"Member added to group."
+	}
+	"Sample group name"
+	{
+		"en"		"group name"
+	}
+	"Group created."
+	{
+		"en"		"Group created. See the help menu for more info."
+	}
+	"Group Members"
+	{
+		"en"		"Group Members"
+	}
+	"Select group to remove from"
+	{
+		"en"		"Select group to remove from"
+	}
+	"Group member removed."
+	{
+		"en"		"Member removed from group."
+	}
+	"Group removed."
+	{
+		"en"		"Group removed."
+	}
+	"Choose a group"
+	{
+		"en"		"Choose a group"
+	}
+	"User not part of your groups."
+	{
+		"en"		"The selected user is not a member of any groups you own."
+	}
+	"Add to group"
+	{
+		"en"		"Add to group"
+	}
+	"Remove from group"
+	{
+		"en"		"Remove from group"
+	}
+	"No users in group."
+	{
+		"en"		"There are no users in that group."
+	}
+	"Group creation limit reached"
+	{
+		"en"		"You've already created three groups in the last minute. Please wait before creating more."
+	}
+	
+	"Outbox"
+	{
+		"en"		"Outbox"
+	}
+	"No sent messages to view"
+	{
+		"en"		"Your outbox is empty."
+	}
+	"Back to outbox"
+	{
+		"en"		"Back to outbox"
+	}
+	"To"
+	{
+		"en"		"To"
+	}
+	"Sent time"
+	{
+		"en"		"Sent"
+	}
+
+	"Online"
+	{
+		"en"		"Online"
+	}
+	"Offline"
+	{
+		"en"		"Offline"
+	}
+	
+	"Help8"
+	{
+		"en"		"Creating a group"
+	}
+	"Help8Text"
+	{
+		"en"		"Type 'pmcreategroup' in chat, followed by your desired name."
+	}
+	"Help9"
+	{
+		"en"		"Removing a group"
+	}
+	"Help9Text"
+	{
+		"en"		"Type 'pmdeletegroup' in chat, then select the group you wish to delete from the menu that appears."
+	}
+	"Help10"
+	{
+		"en"		"Adding players to a group"
+	}
+	"Help10Text"
+	{
+		"en"		"Go to the player's user page, select 'Add to group', then choose the group you wish to add them to."
+	}
+	"Help11"
+	{
+		"en"		"Sending to a group"
+	}
+	"Help11Text"
+	{
+		"en"		"Use pmsend as normal, but in the recipient list choose 'Send to group'."
+	}
+	"Help12"
+	{
+		"en"		"Removing players from a group"
+	}
+	"Help12Text"
+	{
+		"en"		"Go to the player's user page, select 'Remove from group', then choose the group you wish to remove them from."
+	}
+	
+	"Blocked by ID"
+	{
+		"#format"	"{1:s}"
+		"en"		"You are blocked from sending messages to <{1}>."
+	}
+	
+	"Group owner changed."
+	{
+		"en"		"Group owner changed."
+	}
+}
