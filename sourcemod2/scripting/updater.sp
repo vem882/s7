@@ -32,7 +32,7 @@ public Plugin:myinfo =
 #define TEMP_FILE_EXT		"temp"		// All files are downloaded with this extension first.
 #define MAX_URL_LENGTH		256
 
-define UPDATE_URL			"https://raw.githubusercontent.com/vem882/s7/master/sourcemod2/updater.txt"
+#define UPDATE_URL			"https://raw.githubusercontent.com/vem882/s7/master/sourcemod2/updater.txt"
 
 enum UpdateStatus {
 	Status_Idle,		
