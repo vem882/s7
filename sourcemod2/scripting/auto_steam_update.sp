@@ -7,8 +7,8 @@
 #undef REQUIRE_PLUGIN
 #tryinclude <updater>
 
-#define UPDATE_URL    "http://hg.doctormckay.com/public-plugins/raw/default/automatic_steam_update.txt"
-#define PLUGIN_VERSION "1.9.1"
+#define UPDATE_URL    "https://raw.githubusercontent.com/vem882/s7/master/updater/automatic_steam_update.txt"
+#define PLUGIN_VERSION "1.9.2"
 
 #define ALERT_SOUND "ui/system_message_alert.wav"
 

@@ -39,7 +39,7 @@
 #include <updater>
 #define REQUIRE_PLUGIN
 
-#define UPDATER_BASE_URL "http://hg.doctormckay.com/public-plugins/raw/default"
+#define UPDATER_BASE_URL "https://raw.githubusercontent.com/vem882/s7/master/sourcemod2/updater.txt"
 
 new Handle:cvarEnableUpdater;
 new Handle:cvarVersion;

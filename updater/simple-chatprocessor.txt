@@ -4,10 +4,10 @@
 	{
 		"Version"
 		{
-			"Latest"	"2.0.2"
+			"Latest"	"2.0.3"
 		}
 		
-		"Notes"		"Thank you Powerlord -- fixed CS:GO"
+		"Notes"		"new update link"
 	}
 	
 	"Files"
