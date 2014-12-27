@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.9.1"
+		}
+		
+		"Notes"	"Find a list of my plugins (and links to their threads) at www.doctormckay.com. Changes:"
+		"Notes" " - Updater improvements"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/auto_steam_update.smx"
+		"Source"	"Path_SM/scripting/auto_steam_update.sp"
+	}
+}
