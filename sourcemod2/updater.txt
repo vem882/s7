@@ -23,6 +23,8 @@
 		"Plugin"	"Path_SM/plugins/advertisements.smx"
 		"Plugin"	"Path_SM/plugins/rtd.smx"
 		"Plugin"	"Path_SM/translations/rtd.phrases.txt"
+		"Plugin"	"Path_SM/plugins/gift.smx"
+		"Plugin"	"Path_SM/translations/gift.phrases.txt"
 		
 
 		"Source"	"Path_SM/scripting/simple-chatprocessor.sp"
@@ -32,6 +34,7 @@
 		"Source"	"Path_SM/scripting/advertisements.sp"
 		"Source"	"Path_SM/plugins/rtd.sp"
 		"Source"	"Path_SM/scripting/include/rtd.inc"
+		"Source"	"Path_SM/plugins/gift.sp"
 		
 	}
 }

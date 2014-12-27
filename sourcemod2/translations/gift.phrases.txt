@@ -1,0 +1,172 @@
+"Phrases"
+{
+	"MiniHP"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved {gold}+250 {gray}HP and Minicrits for {gold}{1} {gray}seconds."
+	}
+	"DanceFever"
+	{
+		"en"		"{gold}[Gift] {gray}You have recieved Dance Fever!"
+	}
+	"Knockers"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved Knockers for {gold}{1} {gray}seconds."
+	}
+	"BigHead"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}Your head just got bigger for {gold}{1} {gray}seconds."
+	}
+	"SmallHead"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}Your head just got smaller for {gold}{1} {gray}seconds."
+	}
+	"Hyper"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You are hyper, you are going max speed for {gold}{1} {gray}seconds."
+	}
+	"Camo"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved Camoflage for {gold}{1} {gray}seconds."
+	}
+	"Funny"
+	{
+		"en"		"{gold}[Gift] {gray}You have recieved a Funny Feeling!"
+	}
+	"Dracula"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved Dracula's Blood for {gold}{1} {gray}seconds."
+	}
+	"Feather"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved Feather's Touch for {gold}{1} {gray}seconds."
+	}
+	"Nostalgia"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved Nostalgia for {gold}{1} {gray}seconds."
+	}
+	"Sentry"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You can spawn one sentry gun for {gold}{1} {gray}seconds, call for {gold}Medic! {gray}at the location you want to spawn it."
+	}
+	"OneHP"
+	{
+		"en"		"{gold}[Gift] {gray}You lost health! Darn it!"
+	}
+	"BrainDead"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You are Brain Dead for {gold}{1} {gray}seconds."
+	}
+	"BallsOfSteel"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have recieved Balls of Steel for {gold}{1} {gray}seconds."
+	}
+	"Inverse"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}Your view has been inversed for {gold}{1} {gray}seconds."
+	}
+	"Blind"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have been blinded for {gold}{1} {gray}seconds."
+	}
+	"Teleport"
+	{
+		"en"		"{gold}[Gift] {gray}You picked up a gift that teleported you back to spawn!"
+	}
+	"Grenade"
+	{
+		"en"		"{gold}[Gift] {gray}You picked up a a grenade! Press your {gold}medic-call {gray}button to throw it!"
+	}
+	"Earthquake"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have received earthquake for {gold}{1} {gray}seconds."
+	}
+	"Snail"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have received snail speed for {gold}{1} {gray}seconds."
+	}
+	"Toxic"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have received toxic for {gold}{1} {gray}seconds."
+	}
+	"Noob"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have received noob mode for {gold}{1} {gray}seconds."
+	}
+	"Dispenser"
+	{
+		"en"		"{gold}[Gift] {gray}You can spawn a permanent dispenser! Press {gold}!medic {gray}to spawn it in your cursor."
+	}
+	"Scary"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have received scary bullets for {gold}{1} {gray}seconds."
+	}
+	"Pitfall"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have received Pitfall for {gold}{1} {gray}seconds."
+	}
+	"ERROR"
+	{
+		"en"		"{red}ERROR: {gray}Unknown effect, type {gold}!listeffect {gray}for a list of names."
+	}
+	"Fix"
+	{
+		"en"		"[SM] Usage: sm_seteffect <client> <effect name>"
+	}
+	"Fix2"
+	{
+		"en"		"[SM] Usage: sm_removeeffect <client>"
+	}
+	"Clear"
+	{
+		"en"		"{gold}[Gift] {gray}All effects on your are cleared."
+	}
+	"Spawn"
+	{
+		"en"		"{gold}[SM] {gray}Could not find spawn point."
+	}
+	"Duplicate"
+	{
+		"en"		"{red}ERROR: {gray}The player already has an active effect"
+	}
+	"List"
+	{
+		"en"		"minihp - Get health and minicrits.\ndance - Force player to taunt.\nknocker - Your attacks will have a bigger knock to it.\nbighead - Your head will turn big.\nsmallhead - Your head will turn small\nhyper - You will run fast.\ncamoflage - You will blend in the enviornment better.\nfunnyfeeling - Your screen will look funny.\ndracula - Damage you do will heal a certain percentage back.\nfeather - You will fly into the air, low gravity.\nnostalgia - Your screen will turn black and white.\nsentry - You can spawn a sentry gun at your cursor.\nonehp - You lose all your health and you are left with 1 hp.\nbraindead - You are stunned for a few seconds.\nballsofsteel - You become a robot that take -50% damage but move 30% slower.\ngrenade - You gain a grenade and can throw it at people.\ntoxic - You are toxic and you do AOE damage per second.\ndispenser - You can spawn a permanent dispenser.\nscary - Every damage you do will make your enemy scared.\ninverse - Your view is now upside down.\nblind - You can't see, you're blind\ndejavu - You teleport back to your spawn.\nearthquake - You and people around you are shaking.\nsnail - You are now walking really slow.\noob - You are outlined and colored black."
+	}
+	"List2"
+	{
+		"en"		"List has been printed in console, open your console to see it"
+	}
+	"Faked"
+	{
+		"en"		"{gold}[Gift] {gray}You picked up a fake gift!"
+	}
+	"Advertise"
+	{
+		"en"		"{gold}[Gift] {gray}This server is running {gold}Gift Mod\n{gray}Type {gold}!gift {gray}to show how many gift boxes you collected\nType {gold}!gifthelp {gray}for more information."
+	}
+	"Collected"
+	{
+		"#format"	"{1:d}"
+		"en"		"{gold}[Gift] {gray}You have collected {gold}{1} {gray}gifts."
+	}
+}
