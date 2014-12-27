@@ -20,12 +20,18 @@
 		"Plugin"	"Path_SM/plugins/motdgd_adverts.smx"
 		"Plugin"	"Path_SM/plugins/auto_steam_update.smx"
 		"Plugin"	"Path_SM/plugins/updater.smx"
+		"Plugin"	"Path_SM/plugins/advertisements.smx"
+		"Plugin"	"Path_SM/plugins/rtd.smx"
+		"Plugin"	"Path_SM/translations/rtd.phrases.txt"
 		
 
 		"Source"	"Path_SM/scripting/simple-chatprocessor.sp"
 		"Source"	"Path_SM/scripting/include/scp.inc"
 		"Source"	"Path_SM/scripting/auto_steam_update.sp"
 		"Source"	"Path_SM/scripting/updater.sp"
+		"Source"	"Path_SM/scripting/advertisements.sp"
+		"Source"	"Path_SM/plugins/rtd.sp"
+		"Source"	"Path_SM/scripting/include/rtd.inc"
 		
 	}
 }
